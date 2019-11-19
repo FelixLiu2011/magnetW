@@ -44,7 +44,7 @@
     "size": "./ul[2]/li[2]/span",
     "date": "./ul[2]/li[1]/text()",
     "hot": "./ul[1]/li/h3/span/span[3]",
-    "url": "https://www.ciliwang.live",
+    "url": "https://www.ciliwang1.club",
     "paths": {
       "preset": "/list.html?keyword=%s&page=%d&sort=ai",
       "time": "/list.html?keyword=%s&page=%d&sort=time",
